@@ -1,4 +1,4 @@
-## Zee5 Downloader
+## Zee5 Downloaderg
 If you find any bugs, report at @TroJanzSupport
 
 **My Features**:
